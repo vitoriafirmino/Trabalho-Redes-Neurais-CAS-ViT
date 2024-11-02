@@ -44,6 +44,8 @@ Uma análise dos resultados obtidos com ambos os modelos é apresentada neste re
 
 [![Watch the video](https://img.youtube.com/vi/cf7IQWrB6sE/0.jpg)](https://www.youtube.com/watch?v=cf7IQWrB6sE)
 
+https://www.youtube.com/watch?v=cf7IQWrB6sE
+
 ### Referências
 
 - Código original da CAS-ViT: [CAS-ViT GitHub](https://github.com/Tianfang-Zhang/CAS-ViT)
