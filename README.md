@@ -36,12 +36,13 @@ Foram realizadas duas avaliações:
 
 Os resultados foram comparados e discutidos, observando o impacto do uso de adapters em uma rede pré-treinada e congelada.
 
-**Vídeo da apresentação:**
-
-[![Watch the video](https://img.youtube.com/vi/cf7IQWrB6sE/hqdefault.jpg)](https://www.youtube.com/watch?v=cf7IQWrB6sE)
 ## Resultados e Discussão
 
 Uma análise dos resultados obtidos com ambos os modelos é apresentada neste repositório. Os detalhes de desempenho podem ser encontrados na pasta `Resultados/`.
+
+**Vídeo da apresentação:**
+
+[![Watch the video](https://img.youtube.com/vi/cf7IQWrB6sE/hqdefault.jpg)](https://www.youtube.com/watch?v=cf7IQWrB6sE)
 
 ### Referências
 
