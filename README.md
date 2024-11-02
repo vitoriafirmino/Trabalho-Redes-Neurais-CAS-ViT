@@ -42,7 +42,7 @@ Uma análise dos resultados obtidos com ambos os modelos é apresentada neste re
 
 **Vídeo da apresentação:**
 
-[![Watch the video](https://img.youtube.com/vi/cf7IQWrB6sE/hqdefault.jpg)](https://www.youtube.com/watch?v=cf7IQWrB6sE)
+[![Watch the video](https://img.youtube.com/vi/cf7IQWrB6sE/0.jpg)](https://www.youtube.com/watch?v=cf7IQWrB6sE)
 
 ### Referências
 
